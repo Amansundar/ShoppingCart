@@ -1,0 +1,90 @@
+<!--
+  Copyright 2012 The Android Open Source Project
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name">Shopping Cart</string>
+    <string-array name="menu_array">
+        <item>New basket</item>
+        <item>Purchase list</item>
+        <item>Settings</item>
+        <item>Wish List</item>
+        <item>About</item>
+        <item>Help</item>
+    </string-array>
+
+    <string-array name="shopping_cart_array">
+        <item>Shopping Cart</item>
+        <item>Product list</item>
+    </string-array>
+
+    <string-array name="purchase_array">
+        <item>Purchase List</item>
+        <item>Purchase Detail</item>
+    </string-array>
+
+    <string-array name="product_array">
+        <item>product1</item>
+        <item>product2</item>
+        <item>product3</item>
+        <item>product4</item>
+        <item>product5</item>
+        <item>product6</item>
+        <item>product7</item>
+        <item>product8</item>
+        <item>product9</item>
+        <item>product10</item>
+        <item>product11</item>
+        <item>product12</item>
+        <item>product13</item>
+        <item>product14</item>
+        <item>product15</item>
+        <item>product16</item>
+        <item>product17</item>
+        <item>product18</item>
+        <item>product19</item>
+        <item>product20</item>
+        <item>product21</item>
+        <item>product22</item>
+        <item>product23</item>
+        <item>product24</item>
+    </string-array>
+    <string-array name="product_price_array">
+        <item>82</item>
+        <item>231</item>
+        <item>87</item>
+        <item>86</item>
+        <item>98</item>
+        <item>23</item>
+        <item>13</item>
+        <item>81</item>
+        <item>123</item>
+        <item>63</item>
+        <item>93</item>
+        <item>53</item>
+        <item>52</item>
+        <item>12</item>
+        <item>82</item>
+        <item>76</item>
+        <item>80</item>
+        <item>132</item>
+        <item>154</item>
+        <item>221</item>
+        <item>65</item>
+        <item>88</item>
+        <item>134</item>
+        <item>73</item>
+    </string-array>
+</resources>
